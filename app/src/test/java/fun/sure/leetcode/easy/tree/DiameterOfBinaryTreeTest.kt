@@ -1,6 +1,7 @@
-package `fun`.sure.leetcode.easy
+package `fun`.sure.leetcode.easy.tree
 
 import `fun`.sure.leetcode.common.TreeNode
+import `fun`.sure.leetcode.easy.tree.DiameterOfBinaryTree
 import org.junit.Assert.*
 import org.junit.Test
 

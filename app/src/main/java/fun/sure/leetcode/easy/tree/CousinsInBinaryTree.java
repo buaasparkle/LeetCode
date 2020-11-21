@@ -1,11 +1,11 @@
-package fun.sure.leetcode.easy;
+package fun.sure.leetcode.easy.tree;
 
 import fun.sure.leetcode.common.TreeNode;
 
 /**
  * Created by wangshuo on 2020/10/31.
  */
-class CousinsInBinaryTree {
+public class CousinsInBinaryTree {
 
     /**
      * In a binary tree, the root node is at depth 0, and children of each depth k node are at depth k+1.

@@ -1,10 +1,11 @@
-package fun.sure.leetcode.easy;
+package fun.sure.leetcode.easy.tree;
 
 import org.junit.Test;
 
 import fun.sure.leetcode.common.TreeNode;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Created by wangshuo on 2020/10/31.

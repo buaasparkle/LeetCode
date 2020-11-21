@@ -1,4 +1,4 @@
-package fun.sure.leetcode.easy;
+package fun.sure.leetcode.easy.tree;
 
 import java.util.ArrayList;
 import java.util.List;

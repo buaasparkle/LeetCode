@@ -1,11 +1,11 @@
-package fun.sure.leetcode.easy;
+package fun.sure.leetcode.easy.tree;
 
 import fun.sure.leetcode.common.TreeNode;
 
 /**
  * Created by wangshuo on 2020/11/14.
  */
-class SubtreeOfAnotherTree {
+public class SubtreeOfAnotherTree {
 
     /**
      * Given two non-empty binary trees s and t, check whether tree t has exactly the same structure and node values with a subtree of s. A subtree of s is a tree consists of a node in s and all of this node's descendants. The tree s could also be considered as a subtree of itself.

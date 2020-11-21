@@ -1,7 +1,4 @@
-package fun.sure.leetcode.easy;
-
-import java.util.HashMap;
-import java.util.Map;
+package fun.sure.leetcode.easy.tree;
 
 import fun.sure.leetcode.common.TreeNode;
 
