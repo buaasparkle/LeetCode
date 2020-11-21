@@ -1,4 +1,4 @@
-package fun.sure.leetcode.medium;
+package fun.sure.leetcode.easy;
 
 import fun.sure.leetcode.common.TreeNode;
 
