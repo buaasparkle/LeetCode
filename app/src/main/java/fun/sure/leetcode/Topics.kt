@@ -7,4 +7,8 @@ interface Topics {
 
     interface Array
     interface BinarySearch
+    interface Math
+    interface DynamicProgramming
+    interface Recursion
+    interface Memorization
 }
