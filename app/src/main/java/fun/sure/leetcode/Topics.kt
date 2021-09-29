@@ -11,4 +11,8 @@ interface Topics {
     interface DynamicProgramming
     interface Recursion
     interface Memorization
+    interface Tree
+    interface BinarySearchTree
+    interface DFS
+    interface BinaryTree
 }
