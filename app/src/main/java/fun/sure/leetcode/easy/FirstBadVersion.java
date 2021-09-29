@@ -1,9 +1,11 @@
 package fun.sure.leetcode.easy;
 
+import fun.sure.leetcode.Topics;
+
 /**
  * Created by wangshuo on 2016/6/19.
  */
-public abstract class FirstBadVersion {
+public abstract class FirstBadVersion implements Topics.BinarySearch {
 
     /**
      * You are a product manager and currently leading a team to develop a new product. Unfortunately,
@@ -25,13 +27,10 @@ public abstract class FirstBadVersion {
         int lowVersion = 1;
         int highVersion = n;
         int midVersion;
-        while (lowVersion < highVersion) {
-            if (isBadVersion(lowVersion)) {
-                return lowVersion;
-            }
-            midVersion = lowVersion / 2 + highVersion / 2;
+        while (lowVersion <= highVersion) {
+            midVersion = lowVersion + (highVersion - lowVersion) / 2;
             if (isBadVersion(midVersion)) {
-                highVersion = midVersion;
+                highVersion = midVersion - 1;
             } else {
                 lowVersion = midVersion + 1;
             }
