@@ -15,4 +15,6 @@ interface Topics {
     interface BinarySearchTree
     interface DFS
     interface BinaryTree
+    interface TwoPointers
+    interface Sorting
 }
