@@ -17,7 +17,9 @@ interface Topics {
     interface HashTable
     interface LinkedList
     interface Math
+    interface Matrix
     interface Memorization
+    interface UnionFind
     interface Recursion
     interface Sorting
     interface Tree
