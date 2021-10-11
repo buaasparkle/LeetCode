@@ -19,9 +19,11 @@ interface Topics {
     interface Math
     interface Matrix
     interface Memorization
+    interface MonotonicStack
     interface UnionFind
     interface Recursion
     interface Sorting
+    interface Stack
     interface String
     interface Tree
     interface Trie
