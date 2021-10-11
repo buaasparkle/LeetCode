@@ -22,6 +22,8 @@ interface Topics {
     interface UnionFind
     interface Recursion
     interface Sorting
+    interface String
     interface Tree
+    interface Trie
     interface TwoPointers
 }
