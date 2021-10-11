@@ -6,6 +6,7 @@ package `fun`.sure.leetcode
 interface Topics {
 
     interface Array
+    interface BFS
     interface BinarySearch
     interface BinarySearchTree
     interface BinaryTree
