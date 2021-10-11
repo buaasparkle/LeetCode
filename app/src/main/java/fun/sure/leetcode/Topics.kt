@@ -7,18 +7,18 @@ interface Topics {
 
     interface Array
     interface BinarySearch
-    interface Math
-    interface DynamicProgramming
-    interface Recursion
-    interface Memorization
-    interface Tree
     interface BinarySearchTree
-    interface DFS
     interface BinaryTree
-    interface TwoPointers
-    interface Sorting
+    interface Design
+    interface DFS
+    interface DoublyLinkedList
+    interface DynamicProgramming
     interface HashTable
     interface LinkedList
-    interface Design
-    interface DoublyLinkedList
+    interface Math
+    interface Memorization
+    interface Recursion
+    interface Sorting
+    interface Tree
+    interface TwoPointers
 }
