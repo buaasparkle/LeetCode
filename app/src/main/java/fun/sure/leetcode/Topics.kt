@@ -17,4 +17,8 @@ interface Topics {
     interface BinaryTree
     interface TwoPointers
     interface Sorting
+    interface HashTable
+    interface LinkedList
+    interface Design
+    interface DoublyLinkedList
 }
