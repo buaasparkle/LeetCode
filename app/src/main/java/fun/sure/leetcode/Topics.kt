@@ -24,6 +24,7 @@ interface Topics {
     interface PrefixSum
     interface UnionFind
     interface Recursion
+    interface SlidingWindow
     interface Sorting
     interface Stack
     interface String
