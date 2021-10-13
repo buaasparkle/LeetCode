@@ -20,6 +20,7 @@ interface Topics {
     interface Matrix
     interface Memorization
     interface MonotonicStack
+    interface PrefixSum
     interface UnionFind
     interface Recursion
     interface Sorting
