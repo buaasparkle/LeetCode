@@ -13,6 +13,7 @@ interface Topics {
     interface BinaryTree
     interface Design
     interface DFS
+    interface DivideAndConquer
     interface DoublyLinkedList
     interface DynamicProgramming
     interface HashTable
