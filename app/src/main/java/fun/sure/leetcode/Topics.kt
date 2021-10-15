@@ -16,6 +16,7 @@ interface Topics {
     interface DivideAndConquer
     interface DoublyLinkedList
     interface DynamicProgramming
+    interface Graph
     interface HashTable
     interface LinkedList
     interface Math
@@ -29,6 +30,7 @@ interface Topics {
     interface Sorting
     interface Stack
     interface String
+    interface TopologicalSort
     interface Tree
     interface Trie
     interface TwoPointers
